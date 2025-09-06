@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[View the website on Netlify](https://your-netlify-link.netlify.app)
+[View the website on Netlify](https://dusko-portfolio.netlify.app/)
 
 ---
 
