@@ -62,7 +62,7 @@ src/
 
 **Author:** Dusko Vokic  
 **Phone:** (+36) 70 434 7540  
-**LinkedIn:** [Dusko Vokic](www.linkedin.com/in/duskovokic)  
+**LinkedIn:** [Dusko Vokic](https://www.linkedin.com/in/duskovokic)  
 **GitHub:** [Dusko Vokic](https://github.com/D-vokic)
 
 ---
