@@ -4,7 +4,7 @@
 
 ---
 
-> ![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](screenshot.png)
 
 ## Live Demo
 
