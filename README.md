@@ -2,11 +2,9 @@
 
 > This project is a personal portfolio website developed as the final project for the Meta Advanced React Course. It showcases my skills as a frontend developer specializing in JavaScript and React. The website includes the following sections: Services, Projects, and Contact.
 
-
+---
 
 > ![Portfolio Screenshot](screenshot.png)
-
----
 
 ## Live Demo
 
