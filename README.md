@@ -42,7 +42,7 @@ src/
 ```bash
 1. Clone the repository:
    git clone https://github.com/D-vokic/Personal-portfolio-meta.git
-   cd <your-repo>
+   cd Personal-portfolio-meta
 
 2. Install dependencies:
    npm install
@@ -62,8 +62,8 @@ src/
 
 **Author:** Dusko Vokic  
 **Phone:** (+36) 70 434 7540  
-**LinkedIn:** [Dusko Vokic](https://www.linkedin.com)  
-**GitHub:** [Dusko Vokic](https://github.com)
+**LinkedIn:** [Dusko Vokic](www.linkedin.com/in/duskovokic)  
+**GitHub:** [Dusko Vokic](https://github.com/D-vokic)
 
 ---
 
