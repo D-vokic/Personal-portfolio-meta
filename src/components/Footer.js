@@ -12,11 +12,10 @@ import {
 } from "@chakra-ui/react";
 import {
   FaPhone,
-  FaGoogle,
   FaGithub,
   FaLinkedin,
   FaFacebook,
-  FaYoutube,
+  FaTwitter,
 } from "react-icons/fa";
 import { Link as ChakraLink } from "@chakra-ui/react";
 
@@ -42,6 +41,10 @@ const Footer = () => {
               alt="SoHo iLone Logo"
               boxSize="120px"
               objectFit="contain"
+              transition="all 0.3s ease-in-out"
+              _hover={{
+                transform: "scale(1.2)",
+              }}
             />
           </ChakraLink>
         </Flex>
@@ -49,7 +52,7 @@ const Footer = () => {
         <Divider borderColor="gray.600" />
 
         <HStack spacing={6}>
-          <Link href="mailto:vokic.dusko@gmail.com" isExternal></Link>
+          {/* <Link href="mailto:vokic.dusko@gmail.com" isExternal></Link> */}
           <Link href="https://github.com/d-vokic" isExternal>
             <IconButton
               aria-label="GitHub"
@@ -57,6 +60,12 @@ const Footer = () => {
               variant="ghost"
               color="white"
               fontSize="xl"
+              transition="all 0.5s ease-in-out"
+              _hover={{
+                bg: "gray.100",
+                color: "black",
+                borderRadius: "md",
+              }}
             />
           </Link>
           <Link href="https://www.linkedin.com/in/duskovokic" isExternal>
@@ -66,6 +75,12 @@ const Footer = () => {
               variant="ghost"
               color="white"
               fontSize="xl"
+              transition="all 0.5s ease-in-out"
+              _hover={{
+                bg: "gray.100",
+                color: "black",
+                borderRadius: "md",
+              }}
             />
           </Link>
           <Link href="https://facebook.com" isExternal>
@@ -75,6 +90,27 @@ const Footer = () => {
               variant="ghost"
               color="white"
               fontSize="xl"
+              transition="all 0.5s ease-in-out"
+              _hover={{
+                bg: "gray.100",
+                color: "black",
+                borderRadius: "md",
+              }}
+            />
+          </Link>
+          <Link href="https://twitter.com" isExternal>
+            <IconButton
+              aria-label="LinkedIn"
+              icon={<FaTwitter />}
+              variant="ghost"
+              color="white"
+              fontSize="xl"
+              transition="all 0.5s ease-in-out"
+              _hover={{
+                bg: "gray.100",
+                color: "black",
+                borderRadius: "md",
+              }}
             />
           </Link>
         </HStack>
